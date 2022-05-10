@@ -7,7 +7,7 @@ Junior Front end developer
 I am a Materials Engineer from Brazil that fell in love with React. I like challenges and I always give my best to them, adapting and asking for help when it is necessary. I also believe that teamwork contributes to archive better results.
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [keciasantos-portfolio.netlify.app](http://keciasantos-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [keciakaroline.com](http://keciakaroline.com/)
 * ✉️  You can contact me at [keciakaroline@gmail.com](mailto:keciakaroline@gmail.com)
 
 ### Skills
