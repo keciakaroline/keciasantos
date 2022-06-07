@@ -4,7 +4,7 @@ Hi 👋 My name is Kécia Karoline
 Junior Front end developer
 --------------------------
 
-I am a Materials Engineer from Brazil that fell in love with React. I like challenges and I always give my best to them, adapting and asking for help when it is necessary. I also believe that teamwork contributes to archive better results.
+I am a Materials Engineer that fell in love with the web developer Frontend world. I finished a coding Bootcamp SheCodes.io, including real-life projects. As a junior developer, I am constantly tailoring myself to better work, studying new techs and looking for opportunities. I believe in teamwork and always try to contribute to improvement. 
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [keciakaroline.com](http://keciakaroline.com/)
