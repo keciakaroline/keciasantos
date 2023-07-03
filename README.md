@@ -4,7 +4,7 @@ Hi 👋 My name is Kécia Karoline
 Junior Front end developer
 --------------------------
 
-I am a Materials Engineer that fell in love with the web developer Frontend world. I finished a coding Bootcamp SheCodes.io, including real-life projects. As a junior developer, I am constantly tailoring myself to better work, studying new techs and looking for opportunities. I believe in teamwork and always try to contribute to improvement. 
+I am a Materials Engineer that fell in love with the web developer Frontend world. I finished a coding Bootcamp SheCodes.io, including real-life projects. I got my 1st opportunity to work as a Junior Front-end developer with a Start-Up in Hannover, and now I'm looking for a new opportunity to continue improving myself and the company. As a junior developer, I am constantly tailoring myself to better work, studying new techs and looking for opportunities. I believe in teamwork and always try to contribute to improvement. 
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [keciakaroline.com](http://keciakaroline.com/)
@@ -18,6 +18,7 @@ I am a Materials Engineer that fell in love with the web developer Frontend worl
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 </p>
 
 
@@ -28,8 +29,9 @@ I am a Materials Engineer that fell in love with the web developer Frontend worl
 ### Badges
 
 <b>Top Repositories</b>
+https://github.com/keciasantos/pokedex-challenge
 
-<div width="100%" align="center"><a href="https://github.com/keciasantos/yasminrolim-gallery-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keciasantos&repo=yasminrolim-gallery-project&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/keciasantos/react-weather-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keciasantos&repo=react-weather-project&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/keciasantos/pokedex-challenge" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keciasantos&repo=pokedex-challenge&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/keciasantos/react-weather-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keciasantos&repo=react-weather-project&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
