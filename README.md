@@ -42,7 +42,6 @@ I'm a quick learner, proactive and can work on my own initiative in fast-paced e
 ### Badges
 
 <b>Top Repositories</b>
-https://github.com/keciasantos/pokedex-challenge
 
 <div width="100%" align="center"><a href="https://github.com/keciasantos/pokedex-challenge" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keciasantos&repo=pokedex-challenge&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/keciasantos/react-weather-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keciasantos&repo=react-weather-project&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
