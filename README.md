@@ -14,9 +14,9 @@ I'm a quick learner, proactive and can work on my own initiative in fast-paced e
 ✓ EU Citizen - Fully Eligible to work
 
 ✓ Achievements:
-▸ Constantly received excellent feedback from Tech Lead and Senior Stakeholders.
-▸ Established an excellent rapport with other team members throughout the project. 
-▸ Trusted to participate in their app re-development and design project for mobile, increasing user experience and layout.
+* Constantly received excellent feedback from Tech Lead and Senior Stakeholders.
+* Established an excellent rapport with other team members throughout the project. 
+* Trusted to participate in their app re-development and design project for mobile, increasing user experience and layout.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [keciakaroline.com](http://keciakaroline.com/)
