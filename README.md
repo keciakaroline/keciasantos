@@ -10,6 +10,10 @@ Now, I have an overall 2 years of experience in Front-End Development, working c
 
 I'm a quick learner, proactive and can work on my own initiative in fast-paced environments. I'm eager to contribute my technical expertise, collaborative skills, and passion for innovation to drive the success of frontend development projects and contribute to the growth of a dynamic organization. I also believe in teamwork.
 
+* 🌍  I'm based in Germany
+* 🖥️  See my portfolio at [keciakaroline.com](http://keciakaroline.com/)
+* ✉️  You can contact me at [keciakaroline@gmail.com](mailto:keciakaroline@gmail.com)
+
 
 ✓ EU Citizen - Fully Eligible to work
 
@@ -18,9 +22,6 @@ I'm a quick learner, proactive and can work on my own initiative in fast-paced e
 * Established an excellent rapport with other team members throughout the project. 
 * Trusted to participate in their app re-development and design project for mobile, increasing user experience and layout.
 
-* 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [keciakaroline.com](http://keciakaroline.com/)
-* ✉️  You can contact me at [keciakaroline@gmail.com](mailto:keciakaroline@gmail.com)
 
 ### Skills
 
