@@ -1,10 +1,22 @@
 Hi 👋 My name is Kécia Karoline
 ===============================
 
-Junior Front end developer
+Front end developer
 --------------------------
 
-I am a Materials Engineer that fell in love with the web developer Frontend world. I finished a coding Bootcamp SheCodes.io, including real-life projects. I got my 1st opportunity to work as a Junior Front-end developer with a Start-Up in Hannover, and now I'm looking for a new opportunity to continue improving myself and the company. As a junior developer, I am constantly tailoring myself to better work, studying new techs and looking for opportunities. I believe in teamwork and always try to contribute to improvement. 
+I am a highly motivated Materials Engineer that fell in love with the web development Frontend world. I made the brave decision to transition from Engineering to Web Development, and I have absolutely no regrets. 
+
+Now, I have an overall 2 years of experience in Front-End Development, working collaboratively in cross-functional teams to improve digital solutions and implement new features to web and mobile applications. As a junior developer, I am constantly tailoring myself to better work, studying new techs and looking for new opportunities. 
+
+I'm a quick learner, proactive and can work on my own initiative in fast-paced environments. I'm eager to contribute my technical expertise, collaborative skills, and passion for innovation to drive the success of frontend development projects and contribute to the growth of a dynamic organization. I also believe in teamwork.
+
+
+✓ EU Citizen - Fully Eligible to work
+
+✓ Achievements:
+▸ Constantly received excellent feedback from Tech Lead and Senior Stakeholders.
+▸ Established an excellent rapport with other team members throughout the project. 
+▸ Trusted to participate in their app re-development and design project for mobile, increasing user experience and layout.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [keciakaroline.com](http://keciakaroline.com/)
@@ -24,7 +36,7 @@ I am a Materials Engineer that fell in love with the web developer Frontend worl
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/keciasantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/keciasantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kecia_karoline" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/keciasantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/keciasantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
