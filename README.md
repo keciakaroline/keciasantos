@@ -10,7 +10,7 @@ Now, I have an overall 2 years of experience in Front-End Development, working c
 
 I'm a quick learner, proactive and can work on my own initiative in fast-paced environments. I'm eager to contribute my technical expertise, collaborative skills, and passion for innovation to drive the success of frontend development projects and contribute to the growth of a dynamic organization. I also believe in teamwork.
 
-* 🌍  I'm based in Germany
+* 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [keciakaroline.com](http://keciakaroline.com/)
 * ✉️  You can contact me at [keciakaroline@gmail.com](mailto:keciakaroline@gmail.com)
 
